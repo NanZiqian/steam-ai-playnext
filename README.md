@@ -20,9 +20,8 @@ A desktop GUI application that scans your Steam library and uses Google's Gemini
 
 1. Clone this repository:
    ```
-   git clone [https://github.com/YOUR_USERNAME/steam-ai-recommender.git](https://github.com/YOUR_USERNAME/steam-ai-recommender.git)
+   git clone https://github.com/NanZiqian/steam-ai-playnext.git
    cd steam-ai-recommender
-
    ```
 2. Install the required libraries:
    ```
@@ -34,7 +33,7 @@ A desktop GUI application that scans your Steam library and uses Google's Gemini
 
 1. Run the application:
    ```
-   python steam_recommender_v2.py
+   python steam_recommender.py
 
    ```
 2. Enter your Steam ID and API Keys in the "Configuration" section.
