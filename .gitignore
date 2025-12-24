@@ -1,0 +1,4 @@
+# Ignore the configuration folder containing API keys
+Config/config.json
+# Python cache files
+pycache/*.pyc
